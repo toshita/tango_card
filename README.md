@@ -44,9 +44,8 @@
 
 # Requirement
 gcc, make のバージョンは以下の通り。
-
-gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
-gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+* gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+* GNU Make 4.2.1 
 
 # Installation
 特になし
